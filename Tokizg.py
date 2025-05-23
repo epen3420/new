@@ -1,3 +1,3 @@
-# 時次が0時38分作ったファイル
+# 時次がコラボレーターとしてpushする
 
-print("Hello, GitHub!")
+print("Tokizg is no longer a viewer.\nNOW, I AM A COLLABORATOR!")
